@@ -29,6 +29,14 @@ dl, dt, dd {
   padding: 0;
 }
 
+.layout-width {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.Section {
+  background:#fff;
+}
+
 @media all and (max-width: 650px) {
   html {
     font-size: 11px;

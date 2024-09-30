@@ -14,7 +14,6 @@ const MainContainer = () => {
   return (
     <>
       <TopMenu />
-      <ProfileImage />
       <SectionsContainer {...options}>
         <InfoAbout />
         <Experience />
